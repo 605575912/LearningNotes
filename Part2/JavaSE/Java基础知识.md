@@ -199,13 +199,13 @@ Java 平台提供了两种类型的字符串：String和StringBuffer / StringBui
 
 ---
 
-**Excption与Error区别**
+**Exception与Error区别**
 
 Error表示系统级的错误和程序不必处理的异常，是恢复不是不可能但很困难的情况下的一种严重问题；比如内存溢出，不可能指望程序能处理这样的状况；Exception表示需要捕捉或者需要程序进行处理的异常，是一种设计或实现问题；也就是说，它表示如果程序运行正常，从不会发生的情况。
 
 ---
 
-**Excption与Error包结构。OOM你遇到过哪些情况，SOF你遇到过哪些情况。**
+**Exception与Error包结构。OOM你遇到过哪些情况，SOF你遇到过哪些情况。**
 
 [http://www.cnblogs.com/yumo/p/4909617.html](http://www.cnblogs.com/yumo/p/4909617.html)
 
